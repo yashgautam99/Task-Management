@@ -134,11 +134,16 @@ http://localhost:5000/api/tasks
 
 ## 📸 Screenshots
 ### **1. Task List UI**
-![Task List](screenshots/task_list.png)
+![Task List](screenshots/screenshot1.png)
 
 ### **2. Task Form UI**
-![Task Form](screenshots/task_form.png)
+![Task Form](screenshots/screenshot2.png)
 
+### **3. Updating Task List**
+![Updating List](screenshots/screenshot3.png)
+
+### **4. Deleting List**
+![Deleting List](screenshots/screenshot4.png)
 ---
 
 ## 🐝 License
